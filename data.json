@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Summer Nights",
+    "artist": "DJ Breeze",
+    "durationSec": 210,
+    "genres": ["Electronic", "Dance"]
+  },
+  {
+    "title": "Lost in Thoughts",
+    "artist": "Sophie Crane",
+    "durationSec": 180,
+    "genres": ["Pop", "Indie"]
+  },
+  {
+    "title": "Morning Light",
+    "artist": "Acoustic Vibes",
+    "durationSec": 240,
+    "genres": ["Acoustic"]
+  },
+  {
+    "title": "City Drive",
+    "artist": "The Urbanists",
+    "durationSec": 150,
+    "genres": ["Rock", "Alternative"]
+  },
+  {
+    "title": "Echoes of You",
+    "artist": "Minimal Beat",
+    "durationSec": 300,
+    "genres": ["Electronic", "Chill"]
+  }
+]
